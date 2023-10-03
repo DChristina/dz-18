@@ -18,7 +18,7 @@ public class BookingDates {
     public Date getCheckin() {
         return checkin;
     }
-
+//
     public Date getCheckout() {
         return checkout;
     }

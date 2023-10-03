@@ -17,19 +17,16 @@ public class Booking {
         this.bookingdates = bookingdates;
         this.additionalneeds = additionalneeds;
     }
-
+//
     public Booking() {
        super();
     }
-
     public String getFirstname() {
         return firstname;
     }
-
     public String getLastname() {
         return lastname;
     }
-
     public Integer getTotalprice() {
         return totalprice;
     }
