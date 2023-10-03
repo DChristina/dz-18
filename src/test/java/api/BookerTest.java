@@ -10,8 +10,6 @@ import static io.restassured.RestAssured.given;
 
 public class BookerTest {
     private final static String URL = "https://restful-booker.herokuapp.com/";
-
-
     @Test
     public void authorizationTest(){
         Specification.installSpecification(Specification.requestSpec(URL),Specification.responseSpecGood());

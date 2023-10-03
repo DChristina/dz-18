@@ -1,5 +1,5 @@
 package api;
-
+//
 public class SuccessfulAuthorization {
     private String token;
 

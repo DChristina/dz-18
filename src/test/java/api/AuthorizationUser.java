@@ -13,7 +13,7 @@ public class AuthorizationUser {
  public AuthorizationUser(){
      super();
  }
-
+//
     public String getUsername() {
         return username;
     }

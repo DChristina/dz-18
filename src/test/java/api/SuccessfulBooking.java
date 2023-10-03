@@ -1,7 +1,7 @@
 package api;
 
 import java.util.Date;
-
+//
 public class SuccessfulBooking {
     private Integer bookingid;
     private String booking;
